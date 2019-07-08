@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.example.helloworld</string>
+                <string>vn.com.kang</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>HELLO</string>
+                <string>DMS Kangaroo</string>
             </dict>
         </dict>
     </array>
